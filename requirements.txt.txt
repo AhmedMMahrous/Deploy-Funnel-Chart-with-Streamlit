@@ -1,4 +1,0 @@
-pandas
-plotly.graph_objs
-plotly.offline
-streamlit
