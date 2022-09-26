@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objs as go
 import plotly.offline as offline
 import streamlit as st
-offline.init_notebook_mode(connected=True)
+#offline.init_notebook_mode(connected=True)
 
 # Title
 st.title("Funnel Charts")
