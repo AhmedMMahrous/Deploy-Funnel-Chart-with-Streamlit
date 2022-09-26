@@ -1,3 +1,4 @@
 pandas
-plotly
+plotly.graph_objs
+plotly.offline
 streamlit
